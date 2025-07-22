@@ -2606,6 +2606,31 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@mitsuharu/react-native-components-plus@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "@mitsuharu/react-native-components-plus@workspace:."
+  dependencies:
+    "@biomejs/biome": "npm:^2.1.2"
+    "@commitlint/config-conventional": "npm:^19.6.0"
+    "@react-native/babel-preset": "npm:0.78.2"
+    "@release-it/conventional-changelog": "npm:^9.0.2"
+    "@types/jest": "npm:^29.5.5"
+    "@types/react": "npm:^19.0.12"
+    commitlint: "npm:^19.6.1"
+    del-cli: "npm:^5.1.0"
+    jest: "npm:^29.7.0"
+    prettier: "npm:^3.0.3"
+    react: "npm:19.0.0"
+    react-native: "npm:0.79.5"
+    react-native-builder-bob: "npm:^0.40.8"
+    release-it: "npm:^17.10.0"
+    typescript: "npm:^5.8.3"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  languageName: unknown
+  linkType: soft
+
 "@nodelib/fs.scandir@npm:2.1.5":
   version: 2.1.5
   resolution: "@nodelib/fs.scandir@npm:2.1.5"
@@ -9477,31 +9502,6 @@ __metadata:
     react-native-builder-bob: "npm:^0.40.8"
     react-native-monorepo-config: "npm:^0.1.9"
     react-native-web: "npm:~0.20.0"
-  languageName: unknown
-  linkType: soft
-
-"react-native-components-plus@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-native-components-plus@workspace:."
-  dependencies:
-    "@biomejs/biome": "npm:^2.1.2"
-    "@commitlint/config-conventional": "npm:^19.6.0"
-    "@react-native/babel-preset": "npm:0.78.2"
-    "@release-it/conventional-changelog": "npm:^9.0.2"
-    "@types/jest": "npm:^29.5.5"
-    "@types/react": "npm:^19.0.12"
-    commitlint: "npm:^19.6.1"
-    del-cli: "npm:^5.1.0"
-    jest: "npm:^29.7.0"
-    prettier: "npm:^3.0.3"
-    react: "npm:19.0.0"
-    react-native: "npm:0.79.5"
-    react-native-builder-bob: "npm:^0.40.8"
-    release-it: "npm:^17.10.0"
-    typescript: "npm:^5.8.3"
-  peerDependencies:
-    react: "*"
-    react-native: "*"
   languageName: unknown
   linkType: soft
 
