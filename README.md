@@ -1,11 +1,11 @@
-# react-native-components-plus
+# @mitsuharu/react-native-components-plus
 
 It reassembles standard components
 
 ## Installation
 
 ```sh
-npm install react-native-components-plus
+npm install @mitsuharu/react-native-components-plus
 ```
 
 ## Develop
