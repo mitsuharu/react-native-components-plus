@@ -1,5 +1,5 @@
 {
-  "name": "react-native-components-plus",
+  "name": "@mitsuharu/react-native-components-plus",
   "version": "0.1.0",
   "description": "It reassembles standard react native components.",
   "main": "./lib/module/index.js",
