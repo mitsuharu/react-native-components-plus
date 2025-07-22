@@ -4,11 +4,9 @@ It reassembles standard components
 
 ## Installation
 
-
 ```sh
 npm install react-native-components-plus
 ```
-
 
 ## Develop
 
