@@ -1,20 +1,10 @@
-import { StyleSheet, Text, View } from 'react-native'
-import { multiply } from 'react-native-components-plus'
-
-const result = multiply(3, 7)
+import { SafeAreaProvider } from 'react-native-safe-area-context'
+import { Main } from './Main'
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Result: {result}</Text>
-    </View>
+    <SafeAreaProvider>
+      <Main />
+    </SafeAreaProvider>
   )
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-})

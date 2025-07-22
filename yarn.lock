@@ -9501,6 +9501,7 @@ __metadata:
     react-native: "npm:0.79.5"
     react-native-builder-bob: "npm:^0.40.8"
     react-native-monorepo-config: "npm:^0.1.9"
+    react-native-safe-area-context: "npm:5.4.0"
     react-native-web: "npm:~0.20.0"
   languageName: unknown
   linkType: soft
@@ -9532,6 +9533,16 @@ __metadata:
     escape-string-regexp: "npm:^5.0.0"
     fast-glob: "npm:^3.3.3"
   checksum: 10c0/7bff1eca0184008d145c7faa2b0556cca786d0afaf46b8ecd1d828aa5ceec3fb940223ee3db5147c16cc607c9785940fe3b4a52ac0d855f2e1d4c97d096a5635
+  languageName: node
+  linkType: hard
+
+"react-native-safe-area-context@npm:5.4.0":
+  version: 5.4.0
+  resolution: "react-native-safe-area-context@npm:5.4.0"
+  peerDependencies:
+    react: "*"
+    react-native: "*"
+  checksum: 10c0/729fef1f768d57b905f51882374aa93b209d54576b8a0cf328e0a349c8dc9705ae8f9032e572fd7a7c9e94b588105f44760c0bb15ab9911b7977073d6754b54d
   languageName: node
   linkType: hard
 
