@@ -4,23 +4,35 @@ It reassembles standard components
 
 ## Installation
 
-
 ```sh
 npm install react-native-components-plus
 ```
 
+## Develop
 
-## Usage
+Get started with the project:
 
-
-```js
-import { multiply } from 'react-native-components-plus';
-
-// ...
-
-const result = await multiply(3, 7);
+```shell
+yarn
 ```
 
+Run the example app on iOS:
+
+```shell
+yarn example ios
+```
+
+Run the example app on Android:
+
+```shell
+yarn example android
+```
+
+Run the example app on Web:
+
+```shell
+yarn example web
+```
 
 ## Contributing
 
