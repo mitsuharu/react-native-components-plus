@@ -2622,7 +2622,7 @@ __metadata:
     prettier: "npm:^3.0.3"
     react: "npm:19.0.0"
     react-native: "npm:0.79.5"
-    react-native-builder-bob: "npm:^0.40.8"
+    react-native-builder-bob: "npm:^0.40.13"
     release-it: "npm:^17.10.0"
     typescript: "npm:^5.8.3"
   peerDependencies:
@@ -5083,9 +5083,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.5.173":
-  version: 1.5.188
-  resolution: "electron-to-chromium@npm:1.5.188"
-  checksum: 10c0/eb524f642c764e2e1c3f39b92a9e170de7b8042114b6f73600decd6438b9c682f7792c8939fddb30ce6a299c11a153d53fc05a1d4240b8649a4ffcff893117cc
+  version: 1.5.189
+  resolution: "electron-to-chromium@npm:1.5.189"
+  checksum: 10c0/53e43a5ad26636eae04f273d65ca4ca5b8f3084690e08caeef34fddf4ed6d16c076d7ceb5feaec36ac4979f250a5a70b13b5c0a33111f89af7b3cd529b751b3f
   languageName: node
   linkType: hard
 
@@ -9456,7 +9456,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-native-builder-bob@npm:^0.40.8":
+"react-native-builder-bob@npm:^0.40.13, react-native-builder-bob@npm:^0.40.8":
   version: 0.40.13
   resolution: "react-native-builder-bob@npm:0.40.13"
   dependencies:
