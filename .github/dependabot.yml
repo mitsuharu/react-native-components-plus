@@ -12,6 +12,16 @@ updates:
     schedule:
       interval: "weekly"
     groups:
+      update-react-native:
+        patterns:
+          - "react-native"
+          - "@react-native/*"
+          - "@types/react"
+          - "react"
+      update-jest:
+        patterns:
+          - "jest"
+          - "@types/jest"
       update-textlint:
         patterns:
           - "textlint"

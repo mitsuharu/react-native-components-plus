@@ -2,6 +2,54 @@
 
 It reassembles standard react native components.
 
+## Usage
+
+### Button
+
+A simple button component.
+
+```tsx
+import { Button } from 'react-native-components-plus';
+
+<Button title="Button" onPress={() => {}} />
+```
+
+### List Components
+
+A component to display lists.
+
+```tsx
+import { Section, Cell, CellGroup, Button } from 'react-native-components-plus';
+
+<Section title="Header">
+  <CellGroup>
+    <Cell title="Title" onPress={() => {}} />
+    <Cell title="With Accessory" AccessoryView={() => <Button title="Action" onPress={() => {}} />} />
+  </CellGroup>
+</Section>
+```
+
+### LoadingSpinner
+
+A component to show a loading indicator.
+
+```tsx
+import { LoadingSpinner } from 'react-native-components-plus';
+
+<LoadingSpinner isLoading={true} />
+```
+
+### Spacer
+
+A component to add space between other components.
+
+```tsx
+import { Spacer } from 'react-native-components-plus';
+
+<Spacer height={16} />
+<Spacer width={16} />
+```
+
 ## Installation
 
 ```sh
