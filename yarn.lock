@@ -2421,7 +2421,7 @@ __metadata:
   dependencies:
     "@biomejs/biome": "npm:^2.1.2"
     "@react-native/babel-preset": "npm:0.78.2"
-    "@release-it/conventional-changelog": "npm:^9.0.2"
+    "@release-it/conventional-changelog": "npm:^10.0.1"
     "@types/jest": "npm:^29.5.5"
     "@types/react": "npm:^19.0.12"
     del-cli: "npm:^5.1.0"
@@ -2906,9 +2906,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@release-it/conventional-changelog@npm:^9.0.2":
-  version: 9.0.4
-  resolution: "@release-it/conventional-changelog@npm:9.0.4"
+"@release-it/conventional-changelog@npm:^10.0.1":
+  version: 10.0.1
+  resolution: "@release-it/conventional-changelog@npm:10.0.1"
   dependencies:
     concat-stream: "npm:^2.0.0"
     conventional-changelog: "npm:^6.0.0"
@@ -2916,8 +2916,8 @@ __metadata:
     git-semver-tags: "npm:^8.0.0"
     semver: "npm:^7.6.3"
   peerDependencies:
-    release-it: ^17.0.0
-  checksum: 10c0/61680310fe049125ffb6d0e86e54bb1c4c083ac5d4cd314417e1a4d7c48a42177c98893f05ec6b0923a1400354f0c0d01ca66cd61b0c6535f7a8377d3fe65bd2
+    release-it: ^18.0.0 || ^19.0.0
+  checksum: 10c0/20ff3823a33910250e3b4fec0c12523e5f56e876b86755c6614bd51ff7a69535bd86fbf63ae133e15d9bbdd6925d0a322f32b71d804f9d13c363232aeb9ddb67
   languageName: node
   linkType: hard
 
