@@ -62,14 +62,14 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^2.1.2",
-    "@react-native/babel-preset": "0.78.2",
+    "@react-native/babel-preset": "0.80.2",
     "@release-it/conventional-changelog": "^9.0.2",
     "@types/jest": "^30.0.0",
     "@types/react": "^19.0.12",
     "del-cli": "^5.1.0",
     "jest": "^30.0.5",
-    "react": "19.0.0",
-    "react-native": "0.79.5",
+    "react": "19.1.1",
+    "react-native": "0.80.2",
     "react-native-builder-bob": "^0.40.13",
     "release-it": "^17.10.0",
     "typescript": "^5.8.3"
